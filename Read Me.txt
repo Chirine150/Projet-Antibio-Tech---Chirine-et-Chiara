@@ -1,0 +1,18 @@
+
+#READ ME
+
+Instructions et informations :
+
+Avant d'exécuter le code fourni, il faut :
+- Enregistrer le fichier script python sur votre ordinateur. 
+- Créer un dossier nommé 'input' (au même endroit où le code a été enregistré). 
+- Insérer le fichier csv souhaité dans le dossier 'input'(fichier nommé 'data_real.csv'). 
+
+Il n'est pas nécessaire de créer les dossiers 'output' et 'images' car le code le permet.
+
+Le code exploite les données du fichier csv nommé 'data_real.csv', mais le code permet également d'exploiter d'autres fichiers csv ('data_small.csv','data_medium.csv' et 'data_huge.csv'). Pour cela, il faut remplacer dans le code le nom du fichier 'data_real.csv' par un autre nom.
+
+
+Limite du code : 
+
+Le code aurait pu être divisé en plusieurs fonctions ( def name_function () ) afin d'associer chaque étape de réalisation à une fonction, pour faciliter la compréhension des lecteurs.
